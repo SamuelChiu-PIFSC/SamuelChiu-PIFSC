@@ -2,10 +2,10 @@
 <h1 align="center">Hello, I'm Samuel Chiu!</h1>
 
 <h3 align="center"> PYSO Intern @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)</h3>
-
 <br>
 
 ### Experience
+
 - 2026 (Summer): Pacific Young Scientist Opportunity (PYSO) intern (CIMAR/NOAA) 
 - 2025 (fall) - 2026 (spring): Undergraduate Research Assistant (SCAIL Lab)
 - 2025 (Summer): AI Undergraduate Research Intern (SCAIL Lab)
