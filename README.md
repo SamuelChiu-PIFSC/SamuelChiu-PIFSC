@@ -28,3 +28,6 @@
 * 👯 I’m looking to collaborate on **Hackathons!**
 * 💬 Ask me about **Scuba Diving and AI Frameworks**
 * ⚡ Fun fact: **I have lived internationally and love to travel!**
+
+### Contact:
+email: samueldc@hawaii.edu
