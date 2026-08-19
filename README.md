@@ -28,3 +28,10 @@
 * 👯 I’m looking to collaborate on **Hackathons!**
 * 💬 Ask me about **Scuba Diving and AI Frameworks**
 * ⚡ Fun fact: **I have lived internationally and love to travel!**
+
+
+### Contact
+
+Personal GitHub: [samuel-chiu](https://github.com/Samuel-Chiu)
+Work Email: samuel.chiu@noaa.gov
+Personal Email: samueldc@hawaii.edu
