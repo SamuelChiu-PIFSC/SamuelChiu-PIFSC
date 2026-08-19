@@ -32,6 +32,6 @@
 
 ### Contact
 
-Personal GitHub: [samuel-chiu](https://github.com/Samuel-Chiu)
-Work Email: samuel.chiu@noaa.gov
-Personal Email: samueldc@hawaii.edu
+- Personal GitHub: [samuel-chiu](https://github.com/Samuel-Chiu)
+- Work Email: samuel.chiu@noaa.gov
+- Personal Email: samueldc@hawaii.edu
